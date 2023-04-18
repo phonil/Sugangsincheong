@@ -14,8 +14,7 @@ mvc 패턴을 적용하여 View는 화면을, model은 데이터를, controller�
 3. 내 정보에서는 회원가입 시 입력한 자신의 이름, 학번, 주민번호, 이메일, 연락처를 가져와 보여줌.
 
 
-![로그인 화면](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a7c03432-e416-4dfb-bae1-87951f492891/swing-login.png)
 
+![swing-login](https://user-images.githubusercontent.com/112797234/232928328-65e2eb4a-487f-4f2c-827b-09834ceb7f2b.PNG)
 
-![수강신청 메인 화면](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/36258945-41ee-4a1e-a420-03f9e49185f9/swing-mainframe.png)
-
+![swing-mainframe](https://user-images.githubusercontent.com/112797234/232928341-1e0e118e-2dd0-4a25-b48c-53ae8de83584.PNG)
